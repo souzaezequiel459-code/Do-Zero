@@ -1,0 +1,48 @@
+h1,
+h2, 
+h3,
+p,
+a,
+li,
+figcaption
+a {
+    font-family: 'Montserrt', sans-serif;
+    color: #333333;
+}
+.lista-cabeçalho a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    color:#333333; 
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 1.3;
+}
+h3 {
+    font-size: 19px;
+    line-height: 1.4;
+
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+a {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+li {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+figcaption {
+    font-size: 14px;
+    line-height: 1.4;
+}
